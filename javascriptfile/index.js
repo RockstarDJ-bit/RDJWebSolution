@@ -5,6 +5,7 @@ function about()
 {
     alert("whatshapp on 6290688546"+"\n"+"mail on jhadivakarkumar77@gmail.com");
 }
+function
 
 function cont()
 {
